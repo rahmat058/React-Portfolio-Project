@@ -4,6 +4,8 @@
   background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); 
 }
 
+/*********** Landing page css ************/
+
 @media (min-width: 840px) {
   .mdl-grid {
       padding: 0 !important;
@@ -65,4 +67,10 @@
   font-size: 5em;
   padding: 8px;
 
+}
+
+/*********** Projects page css ************/
+
+.projects-grid {
+  display: flex;
 }
